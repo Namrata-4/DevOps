@@ -1,0 +1,5 @@
+SDLC-software development lifeCycel
+def- sdlc is a process that is followed by industry to design,develop,test a high quality product.
+example.com--we deliver a e-commarce application-(let a shopping mall doesnt have a kids section and only have men and women thing so if it want to add kids setion in there mall they have to go through the below spets for deploying a new section)
+(life cycel pic)=planning(you have to gather the requirements in this part)-defining(you define the requirements in trems of documnets)-designing(you will do  high(hld) and low level(lld) design)-building(also known as developing)-testing(QE )-deploy and then anagin planning. 
+last 3 phase building testing and deploy are called automation.
