@@ -1,0 +1,14 @@
+what is devops?
+ans-culture that improves the organizational's ability to deliver the applications.(amazon.com,..etc)(automation)
+devops is a process of improving the application delivering by ensuring there is a (proper atutomation,with a core quality that is mentaind,and ensueing there is a continious monitoring, and continious testing).
+why devops?
+ans-//10 years ago//
+system admin(creating a server)open stack,vmware
+BRE(deployes the app in server)
+server admin(creast app server)
+all these three are working together to deliver the application from the deployer to customer.
+//devops//
+improving the deliver ability.
+how to introduce yourself?
+what are your day to day activities?
+ci/cd
