@@ -1,0 +1,7 @@
+Roles in a Company:
+a.Business Analyst :- who interact with the customer and take the requirements.(BRD documnet)
+b.Product mangare:- interact with the Business Analyst gets all the requirements from Business Analyst but prioritize them according to the product also sometimes according to the skill or capability of the organization.
+c.Product Owner:- product mangare interact with the product Owner.takes the requirements and breaks them out in actional items and these actional items are called as EPICS.
+d.Software architect:- is a techniquel person . po interact with solution/software architect and and checks wheather anyone in needed or not .. also generat lld and hld for the requirements.
+e.Developers:- as per requirements its says infrastructre ,git repo,..some are required.
+f.
